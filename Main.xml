@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V17" />
   <DocumentInfo>
-    <Created>2022-02-09T10:50:17.0991019Z</Created>
+    <Created>2022-02-09T11:01:58.3766493Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -52,7 +52,9 @@
     </Member>
   </Section>
   <Section Name="Temp" />
-  <Section Name="Constant" />
+  <Section Name="Constant">
+    <Member Name="const_1" Datatype="Bool" Accessibility="Public" />
+  </Section>
 </Sections></Interface>
       <IsIECCheckEnabled>false</IsIECCheckEnabled>
       <MemoryLayout>Optimized</MemoryLayout>
