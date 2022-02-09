@@ -53,7 +53,7 @@
   </Section>
   <Section Name="Temp" />
   <Section Name="Constant">
-    <Member Name="const_1" Datatype="Bool" Accessibility="Public" />
+    <Member Name="const_1_modified" Datatype="Bool" Accessibility="Public" />
   </Section>
 </Sections></Interface>
       <IsIECCheckEnabled>false</IsIECCheckEnabled>
